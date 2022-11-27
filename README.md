@@ -4,11 +4,11 @@
 #### Hello! 👋 
 
 ### Vision Statement
-I believe one day we all can communicate with each other with a better connection while being mindful of our differences in opinion.
+I believe one day we all can digitally communicate with each other with a better connection while being mindful of our differences in opinion. A cooperative and collaborative digital society for co-existance and prosperity.
 
 
 ### Mission Statement
-Today’s technology holds the beauty of bringing seamless impact going unnoticed while its meaningful contribution greatly influences our daily lives. I see a promise in it to offer a communication framework enabling an effortless and collaborative environment for the global society to interact.
+Today’s technology holds the beauty of bringing seamless impact going unnoticed while its meaningful contribution greatly influences our daily lives. I see a promise in it to offer a communication framework enabling an effortless and collaborative environment for the global society to interact. It is my mission to make this happen.
 
 
 ##### [LinkedIn](https://www.linkedin.com/in/ankur1998) | [Instagram](https://www.instagram.com/ankur0148) | [Twitter](https://twitter.com/anankur) | [CV](https://drive.google.com/file/d/112vJqUTvcQWs11QVXOYxNbee3mT9fU-Y/view)
