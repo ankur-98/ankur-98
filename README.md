@@ -19,7 +19,7 @@ Today’s technology holds the beauty of bringing seamless impact going unnotice
 - 🌱 I’m interested in learning more about topics of computational socio-linguistics and game theory.
 - 💬 My 5 year milestone mission is to get familiar with linguistics for communication topics of Semantics, Pragmatics and Language Discourse by playing around with Neural Language Models in tasks like Monolingual and Cross-lingual Dialogue.
 - 💬 My 10 year milestone mission is to extend my work to the game theory of the social world in applications like soical media and establish a framework for cooperative and collaborative Web 3.0 based communication framework.
-- 👯 I am interested in mentoring, coaching and collaborating with people in the field of AI. If you have an idea related to my areas of interest, feel free to shoot me an email!
+- 👯 I am interested in [mentoring, coaching](https://lnkd.in/dGBVPpuu) and collaborating with people in the field of AI. If you have an idea related to my areas of interest, feel free to shoot me an email!
 
 <!--
 **ankur-98/ankur-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
