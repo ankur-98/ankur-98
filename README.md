@@ -1,5 +1,5 @@
-### Hello, I am Ankur! 👋 
-#### Observe. Listen. Think. Learn.
+#### Hello, I am Ankur 👋
+#### _My motto: Observe. Listen. Think. Learn._
 
 
 ### Vision Statement
