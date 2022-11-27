@@ -1,4 +1,5 @@
 #### Hello, I am Ankur 👋
+### An Applied Researcher with an Entrepreneurial Mindset 🌱
 #### _My motto: Observe. Listen. Think. Learn._
 
 
