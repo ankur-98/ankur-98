@@ -1,7 +1,7 @@
-#### Hello, I am Ankur 👋
-### An Applied Researcher with an Entrepreneurial Mindset 🌱
+### Ankur Agarwal | An Applied Researcher with an Entrepreneurial Mindset 🌱
 #### _My motto: Observe. Listen. Think. Learn._
 
+#### Hello! 👋 
 
 ### Vision Statement
 I believe one day we all can communicate with each other with a better connection while being mindful of our differences in opinion.
