@@ -11,7 +11,7 @@ I believe one day we all can communicate with each other with a better connectio
 Today’s technology holds the beauty of bringing seamless impact going unnoticed while its meaningful contribution greatly influences our daily lives. I see a promise in it to offer a communication framework enabling an effortless and collaborative environment for the global society to interact.
 
 
-##### [LinkedIn](https://www.linkedin.com/in/ankur1998) | [Instagram](https://www.instagram.com/ankur0148) | [CV](https://drive.google.com/file/d/112vJqUTvcQWs11QVXOYxNbee3mT9fU-Y/view)
+##### [LinkedIn](https://www.linkedin.com/in/ankur1998) | [Instagram](https://www.instagram.com/ankur0148) | [Twitter](https://twitter.com/anankur) | [CV](https://drive.google.com/file/d/112vJqUTvcQWs11QVXOYxNbee3mT9fU-Y/view)
 
 ## About me
 
