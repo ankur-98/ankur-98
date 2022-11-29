@@ -22,7 +22,7 @@ Today’s technology holds the beauty of bringing seamless impact going unnotice
 - 💬 My 10 year milestone mission is to extend my work to the game theory of the social world in applications like soical media and establish a framework for cooperative and collaborative Web 3.0 based communication framework.
 - 👯 I am interested in [mentoring, coaching](https://lnkd.in/dGBVPpuu) and collaborating with people in the field of AI. If you have an idea related to my areas of interest, feel free to shoot me an email!
 
-#### Bibliography: Half-Read Books On My Shelf Contributing To My Perspective 📚
+#### Bibliography: Books On My Shelf Contributing To My Perspective 📚
 - [Clark, Robin. Meaningful games: Exploring language with game theory. MIT Press, 2011.](https://www.amazon.ca/Meaningful-Games-Exploring-Language-Theory/dp/0262016176)
 - [Akmajian, Adrian, et al. Linguistics: An introduction to language and communication. MIT press, 2017.](https://www.amazon.ca/Linguistics-Introduction-Communication-Adrian-Akmajian/dp/026253326X)
 - [Chomsky, Noam. The minimalist program. MIT press, 2014.](https://www.amazon.ca/dp/0262531283/?coliid=I33XA01M3979X9&colid=1DZJE8P05R1PQ&psc=1&ref_=lv_ov_lig_dp_it)
