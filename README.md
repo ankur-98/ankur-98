@@ -11,7 +11,8 @@ I believe one day we all can digitally communicate with each other with a better
 Today’s technology holds the beauty of bringing seamless impact going unnoticed while its meaningful contribution greatly influences our daily lives. I see a promise in it to offer a communication framework enabling an effortless and collaborative environment for the global society to interact. It is my mission to make this happen.
 
 
-##### [LinkedIn](https://www.linkedin.com/in/ankur1998) | [Instagram](https://www.instagram.com/ankur0148) | [Twitter](https://twitter.com/anankur) | [CV](https://drive.google.com/file/d/112vJqUTvcQWs11QVXOYxNbee3mT9fU-Y/view)
+### [Personal Statement](https://github.com/ankur-98/ankur-98/files/10128715/Personal_Statement_Ankur_Agarwal.pdf)
+
 
 ## About Me
 
@@ -21,6 +22,9 @@ Today’s technology holds the beauty of bringing seamless impact going unnotice
 - 💬 My 5 year milestone mission is to get familiar with linguistics for communication topics of Semantics, Pragmatics and Language Discourse by playing around with Neural Language Models in tasks like Monolingual and Cross-lingual Dialogue.
 - 💬 My 10 year milestone mission is to extend my work to the game theory of the social world in applications like soical media and establish a framework for cooperative and collaborative Web 3.0 based communication framework.
 - 👯 I am interested in [mentoring, coaching](https://lnkd.in/dGBVPpuu) and collaborating with people in the field of AI. If you have an idea related to my areas of interest, feel free to shoot me an email!
+
+
+##### [LinkedIn](https://www.linkedin.com/in/ankur1998) | [Instagram](https://www.instagram.com/ankur0148) | [Twitter](https://twitter.com/anankur) | [CV](https://drive.google.com/file/d/112vJqUTvcQWs11QVXOYxNbee3mT9fU-Y/view)
 
 #### Bibliography: Books On My Shelf Contributing To My Perspective 📚
 - [Clark, Robin. Meaningful games: Exploring language with game theory. MIT Press, 2011.](https://www.amazon.ca/Meaningful-Games-Exploring-Language-Theory/dp/0262016176)
