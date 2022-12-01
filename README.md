@@ -20,7 +20,7 @@ Today’s technology holds the beauty of bringing seamless impact going unnotice
 - ⚡ I am working with Pretrained Large Language Models (LLMs) for Domain Adaptation, Downstream NLP tasks, Natural Language Understanding (NLU), Machine Translation (NMT), Information Retrieval (IR) and Generation.
 - 🌱 I’m interested in learning more about topics of computational linguistics and game theory for social exchange of information.
 - 💬 My 5 year milestone mission is to get familiar with linguistics for communication topics of Semantics, Pragmatics and Language Discourse by playing around with Neural Language Models in tasks like Monolingual and Cross-lingual Dialogue.
-- 💬 My 10 year milestone mission is to extend my work to the game theory of the social world in applications like soical media and establish a framework for cooperative and collaborative Web 3.0 based communication framework.
+- 💬 My 10 year milestone mission is to extend my work to the game theory of the social world in applications like soical media and establish a cooperative and collaborative Web 3.0 based communication framework.
 - 👯 I am interested in [mentoring, coaching](https://lnkd.in/dGBVPpuu) and collaborating with people in the field of AI. If you have an idea related to my areas of interest, feel free to shoot me an email!
 
 
