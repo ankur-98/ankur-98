@@ -11,7 +11,10 @@ I believe one day we all can digitally communicate with each other with a better
 Today’s technology holds the beauty of bringing seamless impact going unnoticed while its meaningful contribution greatly influences our daily lives. I see a promise in it to offer a communication framework enabling an effortless and collaborative environment for the global society to interact. It is my mission to make this happen.
 
 
-### [Personal Statement](https://github.com/ankur-98/ankur-98/files/10128715/Personal_Statement_Ankur_Agarwal.pdf)
+### [Personal Statement](https://github.com/ankur-98/ankur-98/files/10137152/Personal_Statement_Ankur_Agarwal.pdf)
+
+
+### [Statement of Purpose](https://github.com/ankur-98/ankur-98/files/10137161/Statement_of_Purpose_Ankur_Agarwal.pdf)
 
 
 ## About Me
