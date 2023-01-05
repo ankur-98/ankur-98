@@ -4,7 +4,7 @@
 #### Hello! 👋 
 
 ### Vision Statement
-I believe one day we all can digitally communicate with each other with a better connection while being mindful of our differences in opinion. A cooperative and collaborative digital society for co-existance and prosperity.
+I believe one day we all can digitally communicate with each other with a better connection while being mindful of our differences in opinion. A decentralised, cooperative and collaborative digital society for co-existance and prosperity.
 
 
 ### Mission Statement
