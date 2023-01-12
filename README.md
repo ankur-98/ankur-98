@@ -24,7 +24,7 @@ Today’s technology holds the beauty of bringing seamless impact going unnotice
 - 🌱 I’m interested in learning more about topics of computational linguistics and decision making with game theory for social exchange of information.
 - 💬 My 5 year milestone mission is to get familiar with linguistics for communication topics of Semantics, Pragmatics and Language Discourse with Neural Language Models in personalization tasks with Monolingual and Cross-lingual Dialogue systems.
 - 💬 My 10 year milestone mission is to extend my work to the game theory of the social world in applications like soical media and establish a cooperative and collaborative Web 3.0 based communication framework.
-- 👯 I volunteer for [mentoring, coaching](https://lnkd.in/dGBVPpuu), [CV reviewing](https://www.linkedin.com/posts/ankur1998_how-you-present-your-experience-on-the-resume-activity-7015863548379602944-xsOI?utm_source=share&utm_medium=member_android) and collaborating with people in the field of AI. If you have an idea related to my areas of interest, feel free to shoot me an email!
+- 👯 I volunteer for [mentoring, coaching](https://lnkd.in/dGBVPpuu), [CV reviewing](https://www.linkedin.com/posts/ankur1998_how-you-present-your-experience-on-the-resume-activity-7015863548379602944-xsOI?utm_source=share&utm_medium=member_android) and collaborating with people in the field of AI. If you have an idea related to my areas of interest or something I can contribute to, please feel free to shoot me an email!
 
 
 ##### [LinkedIn](https://www.linkedin.com/in/ankur1998) | [Instagram](https://www.instagram.com/ankur0148) | [Twitter](https://twitter.com/anankur) | [CV](https://drive.google.com/file/d/112vJqUTvcQWs11QVXOYxNbee3mT9fU-Y/view)
