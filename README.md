@@ -1,5 +1,5 @@
 ### Ankur Agarwal | An Applied Researcher With An Entrepreneurial Mindset 🌱
-#### _My motto: Observe. Listen. Think. Learn._
+#### _My motto: Observe. Learn. Grow_
 
 #### Hello! 👋 
 
