@@ -27,7 +27,7 @@ Today’s technology holds the beauty of bringing seamless impact going unnotice
 - 👯 I volunteer for [mentoring, coaching](https://lnkd.in/dGBVPpuu), [CV reviewing](https://www.linkedin.com/posts/ankur1998_how-you-present-your-experience-on-the-resume-activity-7015863548379602944-xsOI?utm_source=share&utm_medium=member_android) and collaborating with people in the field of AI. If you have an idea related to my areas of interest or something I can contribute to, please feel free to shoot me an email!
 
 
-##### [LinkedIn](https://www.linkedin.com/in/ankur1998) | [Instagram](https://www.instagram.com/ankur0148) | [Twitter](https://twitter.com/anankur) | [CV](https://drive.google.com/file/d/112vJqUTvcQWs11QVXOYxNbee3mT9fU-Y/view)
+##### [LinkedIn](https://www.linkedin.com/in/ankur1998) | [Instagram](https://www.instagram.com/ankur0148) | [Twitter](https://twitter.com/anankur) | [CV](https://drive.google.com/file/d/112vJqUTvcQWs11QVXOYxNbee3mT9fU-Y/view?usp=drivesdk)
 
 #### Bibliography: Books On My Shelf Contributing To My Perspective 📚
 - [Clark, Robin. Meaningful games: Exploring language with game theory. MIT Press, 2011.](https://www.amazon.ca/Meaningful-Games-Exploring-Language-Theory/dp/0262016176)
