@@ -1,4 +1,4 @@
-### Ankur Agarwal | An Applied Researcher With A Mindset for Growth 🌱
+### Ankur Agarwal | An Applied Researcher With A Mindset for Growth and Impact 🌱
 #### _My motto: Observe. Learn. Grow._
 
 #### Hello! 👋 
