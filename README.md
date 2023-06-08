@@ -10,12 +10,12 @@ I believe one day we all can digitally communicate with each other with a better
 ### Mission Statement
 Today’s technology holds the beauty of bringing seamless impact going unnoticed while its meaningful contribution greatly influences our daily lives. I see a promise in it to offer a communication framework enabling an effortless and collaborative environment for the global society to interact. It is my mission to make this happen.
 
-
+<!--
 ### [Personal Statement](https://github.com/ankur-98/ankur-98/files/10137152/Personal_Statement_Ankur_Agarwal.pdf)
 
 
-### [Statement of Purpose](https://github.com/ankur-98/ankur-98/files/10137161/Statement_of_Purpose_Ankur_Agarwal.pdf)
-
+### [Statement of Purpose](https://github.com/ankur-98/ankur-98/files/10137161/Statement_of_Purpose_Ankur_Agarwal.pdf) 
+-->
 
 ## About Me
 
@@ -23,8 +23,8 @@ Today’s technology holds the beauty of bringing seamless impact going unnotice
 - ⚡ I am working with Pretrained Large Language Models (LLMs) for Domain Adaptation, Downstream NLP tasks, Natural Language Understanding (NLU), Machine Translation (NMT), Information Retrieval (IR) and Generation.
 - 🌱 I’m interested in learning more about topics of computational linguistics and decision making with game theory for social exchange of information.
 - 💬 My 5 year milestone mission is to get familiar with linguistics for communication topics of Semantics, Pragmatics and Language Discourse with Neural Language Models in personalization tasks with Monolingual and Cross-lingual Dialogue systems.
-- 💬 My 10 year milestone mission is to extend my work to the game theory of the social world in applications like soical media and establish a cooperative and collaborative Web 3.0 based communication framework.
-- 👯 I volunteer for [mentoring, coaching](https://lnkd.in/dGBVPpuu), [CV reviewing](https://www.linkedin.com/posts/ankur1998_how-you-present-your-experience-on-the-resume-activity-7015863548379602944-xsOI?utm_source=share&utm_medium=member_android) and collaborating with people in the field of AI. If you have an idea related to my areas of interest or something I can contribute to, please feel free to shoot me an email!
+- 💬 My 10 year milestone mission is to extend my work to the game theory of the social world in applications like soical media and establish a cooperative and collaborative communication framework.
+- 👯 I volunteer for [mentoring, coaching](https://lnkd.in/dGBVPpuu), [CV reviewing](https://www.linkedin.com/posts/ankur1998_how-you-present-your-experience-on-the-resume-activity-7015863548379602944-xsOI?utm_source=share&utm_medium=member_android), conference paper reviewing and collaborating with people in the field of NLP/AI. If you have an idea related to my areas of interest or something I can contribute to, please feel free to shoot me an email!
 
 
 ##### [LinkedIn](https://www.linkedin.com/in/ankur1998) | [Instagram](https://www.instagram.com/ankur0148) | [Twitter](https://twitter.com/anankur) | [CV](https://drive.google.com/file/d/1Ncb2i-1iFMpMYN-QT79IW5bUxhnFUvGu/view?usp=drivesdk)
