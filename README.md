@@ -44,7 +44,8 @@ Today’s technology holds the beauty of bringing seamless impact going unnotice
 - [Graham, Benjamin. Intelligent Investor: The Classic Text on Value Investing. Harper Collins, 2005.](https://www.amazon.ca/dp/0060752610/?coliid=I2GGE77HN9B600&colid=1DZJE8P05R1PQ&psc=1&ref_=lv_ov_lig_dp_it)
 - [Dalio, Ray. Principles for Dealing with the Changing World Order: Why Nations Succeed Or Fail. Simon and Schuster, 2021.](https://www.amazon.ca/dp/1982160276/?coliid=I1VSWG55SA1H47&colid=1DZJE8P05R1PQ&psc=1&ref_=lv_ov_lig_dp_it)
 
-
+#### My contribution to literature 📚
+- [**Ankur Agarwal**, Mehdi Rezagholizadeh, and Prasanna Parthasarathi. **"Practical Takes on Federated Learning with Pretrained Language Models."** Findings of the Association for Computational Linguistics: EACL 2023. 2023.](https://aclanthology.org/2023.findings-eacl.34)
 
 <!--
 **ankur-98/ankur-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
