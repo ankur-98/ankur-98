@@ -3,11 +3,11 @@
 
 #### Hello! 👋 
 
-### Vision Statement
-I believe one day we all can digitally communicate with each other with a better connection while being mindful of our differences in opinion. A cooperative and collaborative digital society based on the grounds of decentralisation for co-existance and prosperity.
+### Vision Statement ✨
+I believe one day we all can digitally communicate with each other with a better connection while being mindful of our differences in opinion. A cooperative and collaborative digital society for co-existance and prosperity.
 
 
-### Mission Statement
+### Mission Statement ✨
 Today’s technology holds the beauty of bringing seamless impact going unnoticed while its meaningful contribution greatly influences our daily lives. I see a promise in it to offer a communication framework enabling an effortless and collaborative environment for the global society to interact. It is my mission to make this happen.
 
 <!--
