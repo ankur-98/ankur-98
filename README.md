@@ -1,14 +1,14 @@
-### Ankur Agarwal | An Applied Researcher With An Entrepreneurial Mindset 🌱
-#### _My motto: Observe. Learn. Grow_
+### Ankur Agarwal | An Applied Researcher With A Mindset for Growth 🌱
+#### _My motto: Observe. Learn. Grow._
 
 #### Hello! 👋 
 
 ### Vision Statement ✨
-I believe one day we all can digitally communicate with each other with a better connection while being mindful of our differences in opinion. A cooperative and collaborative digital society for co-existance and prosperity.
+I believe one day we all can digitally communicate with each other with a better connection while being mindful of our differences in opinion. A cooperative and collaborative digital society accessible to all irrespective of channel of communication ecouraging value creation and healthy coexistence.
 
 
 ### Mission Statement ✨
-Today’s technology holds the beauty of bringing seamless impact going unnoticed while its meaningful contribution greatly influences our daily lives. I see a promise in it to offer a communication framework enabling an effortless and collaborative environment for the global society to interact. It is my mission to make this happen.
+Today’s technology holds the beauty of bringing seamless impact which goes unnoticed while its meaningful contribution greatly influences our daily lives. I see a promise in it to offer a communication framework enabling an effortless and collaborative environment for the global society to interact in. It is my mission to make this happen.
 
 <!--
 ### [Personal Statement](https://github.com/ankur-98/ankur-98/files/10137152/Personal_Statement_Ankur_Agarwal.pdf)
@@ -22,7 +22,7 @@ Today’s technology holds the beauty of bringing seamless impact going unnotice
 - 🔭 I am an Applied Researcher at the NLP team @ Noah's Ark Lab, Huawei Montreal. 
 - ⚡ I am working with Pretrained Large Language Models (LLMs) for Domain Adaptation, Downstream NLP tasks, Natural Language Understanding (NLU), Machine Translation (NMT), Information Retrieval (IR) and Generation.
 - 🌱 I’m interested in learning more about topics of computational linguistics and decision making with game theory for social exchange of information.
-- 💬 My 5 year milestone mission is to get familiar with linguistics for communication topics of Semantics, Pragmatics and Language Discourse with Neural Language Models in personalization tasks with Monolingual and Cross-lingual Dialogue systems.
+- 💬 My 5 year milestone mission is to get familiar with linguistics for communication topics of Semantics, Pragmatics and Language Discourse with Neural Language Models in personalization tasks with Monolingual and Cross-lingual Conversation systems.
 - 💬 My 10 year milestone mission is to extend my work to the game theory of the social world in applications like soical media and establish a cooperative and collaborative communication framework.
 - 👯 I volunteer for [mentoring, coaching](https://lnkd.in/dGBVPpuu), [CV reviewing](https://www.linkedin.com/posts/ankur1998_how-you-present-your-experience-on-the-resume-activity-7015863548379602944-xsOI?utm_source=share&utm_medium=member_android), conference paper reviewing and collaborating with people in the field of NLP/AI. If you have an idea related to my areas of interest or something I can contribute to, please feel free to shoot me an email!
 
