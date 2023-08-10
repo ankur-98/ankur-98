@@ -34,6 +34,8 @@ Today’s technology holds the beauty of bringing seamless impact which goes unn
 - [Akmajian, Adrian, et al. Linguistics: An introduction to language and communication. MIT press, 2017.](https://www.amazon.ca/Linguistics-Introduction-Communication-Adrian-Akmajian/dp/026253326X)
 - [Chomsky, Noam. The minimalist program. MIT press, 2014.](https://www.amazon.ca/dp/0262531283/?coliid=I33XA01M3979X9&colid=1DZJE8P05R1PQ&psc=1&ref_=lv_ov_lig_dp_it)
 - [Aziz, Haris. "Multiagent systems: algorithmic, game-theoretic, and logical foundations by y. shoham and k. leyton-brown cambridge university press, 2008." ACM Sigact News 41.1 (2010): 34-37.](https://www.amazon.ca/Multiagent-Systems-Algorithmic-Game-Theoretic-Foundations/dp/0521899435)
+- [Huang, Yan, ed. The Oxford handbook of pragmatics. Oxford University Press, 2017.](https://www.amazon.ca/Oxford-Handbook-Pragmatics-Yan-Huang/dp/019882677X)
+- [Clark, Herbert H. Using language. Cambridge university press, 1996.](https://www.amazon.ca/Using-Language-Herbert-H-Clark/dp/0521567459)
 - [Krznaric, Roman. Empathy: Why it matters, and how to get it. TarcherPerigee, 2015.](https://www.amazon.ca/Empathy-Why-Matters-How-Get-ebook/dp/B00HDMMEP2)
 - [Kukar, Polina. "Against empathy: The case for rational compassion." (2018): 479-482.](https://www.amazon.ca/dp/0062339346/?coliid=I2ACB4KQ9VNVU2&colid=1DZJE8P05R1PQ&psc=1&ref_=lv_ov_lig_dp_it)
 - [Shannon, Claude Elwood. "A mathematical theory of communication." The Bell system technical journal 27.3 (1948): 379-423.](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
