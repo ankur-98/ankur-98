@@ -1,7 +1,6 @@
-### Ankur Agarwal | An Applied Researcher With A Mindset for Growth and Impact 🌱
-#### _My motto: Observe. Learn. Grow._
-
-#### Hello! 👋 
+### Ankur Agarwal
+#### Impact and Purpose Driven with a Mindset for Growth 🌱
+#### _Observe. Learn. Grow._
 
 ### Vision Statement ✨
 I believe one day we all can digitally communicate with each other with a better connection while being mindful of our differences in opinion. A cooperative and collaborative digital society accessible to all irrespective of channel of communication ecouraging value creation and healthy coexistence.
