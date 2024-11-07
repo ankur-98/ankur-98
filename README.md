@@ -18,7 +18,7 @@ Today’s technology holds the beauty of bringing seamless impact which goes unn
 
 ## About Me
 
-- 💼 I am currently a Senior Software Engineer @ Cerence Inc, Montreal. Here, I am working with the Research team providing end-to-end productionization of research solutions.
+- 💼 I am currently a Senior Research Scientist @ Cerence Inc, Montreal. Here, I am working on productionizing end-to-end research solutions.
 - 🔭 Previously I gained my Research experience working as an Applied Researcher at the NLP team @ Noah's Ark Lab, Huawei Montreal. 
 - ⚡ I am working with Pretrained Large Language Models (LLMs) for Domain Adaptation, Downstream NLP tasks, Natural Language Understanding (NLU), Machine Translation (NMT), Information Retrieval (IR) and Generation.
 - 🌱 I’m interested in learning more about topics of computational linguistics and decision making with game theory for social exchange of information.
